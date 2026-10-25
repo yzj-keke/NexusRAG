@@ -1,0 +1,27 @@
+# Maven
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Visual Studio Code
+.vscode/
+
+# Runtime files
+*.log
+logs/
+
+# Local environment and sensitive configuration
+.env
+.env.*
+!.env.example
+
+# Operating system
+.DS_Store
+
